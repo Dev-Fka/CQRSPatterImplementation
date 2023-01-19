@@ -1,0 +1,12 @@
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Domain\bin\Debug\net6.0\CQRSImplementation.Domain.deps.json
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Domain\bin\Debug\net6.0\CQRSImplementation.Domain.dll
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Domain\bin\Debug\net6.0\CQRSImplementation.Domain.pdb
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Domain\obj\Debug\net6.0\CQRSImplementation.Domain.csproj.AssemblyReference.cache
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Domain\obj\Debug\net6.0\CQRSImplementation.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Domain\obj\Debug\net6.0\CQRSImplementation.Domain.AssemblyInfoInputs.cache
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Domain\obj\Debug\net6.0\CQRSImplementation.Domain.AssemblyInfo.cs
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Domain\obj\Debug\net6.0\CQRSImplementation.Domain.csproj.CoreCompileInputs.cache
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Domain\obj\Debug\net6.0\CQRSImplementation.Domain.dll
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Domain\obj\Debug\net6.0\refint\CQRSImplementation.Domain.dll
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Domain\obj\Debug\net6.0\CQRSImplementation.Domain.pdb
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Domain\obj\Debug\net6.0\ref\CQRSImplementation.Domain.dll

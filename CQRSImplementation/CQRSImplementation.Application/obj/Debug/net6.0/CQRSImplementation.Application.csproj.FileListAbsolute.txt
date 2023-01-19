@@ -1,0 +1,15 @@
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\bin\Debug\net6.0\CQRSImplementation.Application.deps.json
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\bin\Debug\net6.0\CQRSImplementation.Application.dll
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\bin\Debug\net6.0\CQRSImplementation.Application.pdb
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\bin\Debug\net6.0\CQRSImplementation.Domain.dll
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\bin\Debug\net6.0\CQRSImplementation.Domain.pdb
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\obj\Debug\net6.0\CQRSImplementation.Application.csproj.AssemblyReference.cache
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\obj\Debug\net6.0\CQRSImplementation.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\obj\Debug\net6.0\CQRSImplementation.Application.AssemblyInfoInputs.cache
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\obj\Debug\net6.0\CQRSImplementation.Application.AssemblyInfo.cs
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\obj\Debug\net6.0\CQRSImplementation.Application.csproj.CoreCompileInputs.cache
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\obj\Debug\net6.0\CQRSImplementation.Application.csproj.CopyComplete
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\obj\Debug\net6.0\CQRSImplementation.Application.dll
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\obj\Debug\net6.0\refint\CQRSImplementation.Application.dll
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\obj\Debug\net6.0\CQRSImplementation.Application.pdb
+C:\Users\byart\Desktop\Projects\CQRSPattern\CQRSImplementation\CQRSImplementation.Application\obj\Debug\net6.0\ref\CQRSImplementation.Application.dll
